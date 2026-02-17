@@ -21,15 +21,15 @@ Prerequisites  <br>
 Ensure you have Python installed:  <br>
 bashpython --version  # Requires Python 3.7+  <br>
 Clone the Repository  <br>
-bashgit clone https://github.com/yourusername/snake-water-gun.git
-cd snake-water-gun
-No Dependencies Required
-This project uses only Python's standard library — no pip installs needed.
-Run the Game
-bashpython snake_water_gun.py
+bashgit clone https://github.com/yourusername/snake-water-gun.git<br>
+cd snake-water-gun  <br>
+No Dependencies Required <br>
+This project uses only Python's standard library — no pip installs needed. <br>
+Run the Game<br>
+bashpython snake_water_gun.py <br>
 
-🎮 How to Play
-Once the game launches, follow the on-screen prompts:
+🎮 How to Play  <br>
+Once the game launches, follow the on-screen prompts: <br>
 Welcome to Snake Water Gun!
 ----------------------------
 Enter your choice:
