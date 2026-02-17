@@ -30,13 +30,13 @@ bashpython snake_water_gun.py <br>
 
 🎮 How to Play  <br>
 Once the game launches, follow the on-screen prompts: <br>
-Welcome to Snake Water Gun!
-----------------------------
-Enter your choice:
-  [s] Snake
-  [w] Water
-  [g] Gun
-  [q] Quit
+Welcome to Snake Water Gun!  <br>
+----------------------------  <br>
+Enter your choice: <br>
+  [s] Snake  <br>
+  [w] Water  <br>
+  [g] Gun    <br>
+  [q] Quit    <br>
 
 Your choice: _
 Step-by-step:
