@@ -4,20 +4,11 @@ The rules are straightforward:<br>
 
 🐍 Snake drinks Water → Snake wins<br>
 💧 Water douses Gun → Water wins <br>
-
 🔫 Gun shoots Snake → Gun wins<br>
-
-
 ✨ Features<br>
-
 ⚡ Instant Gameplay — No setup friction. Run and play in seconds<br>
-
-
 ⚡ Instant Gameplay — No setup friction. Run and play in seconds<br>
 🤖 Randomized AI Opponent — Unpredictable computer moves powered by Python's random module <br>
-
-⚡ Instant Gameplay — No setup friction. Run and play in seconds<br>
-⚡ Instant Gameplay — No setup friction. Run and play in seconds<br>
 📊 Live Score Tracking — Win, loss, and draw counts updated after every round  <br>
 🔁 Multi-Round Support — Play as many rounds as you want in a single session  <br>
 🎯 Input Validation — Handles invalid inputs gracefully without crashing  <br>
