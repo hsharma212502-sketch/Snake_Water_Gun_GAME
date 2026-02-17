@@ -38,12 +38,12 @@ Enter your choice: <br>
   [g] Gun    <br>
   [q] Quit    <br>
 
-Your choice: _
-Step-by-step:
+Your choice: _  <br>
+Step-by-step:  <br>
 
-Launch the game using the command above
-Enter s, w, or g to make your move
-The computer instantly generates its move
+Launch the game using the command above  <br>
+Enter s, w, or g to make your move  <br>
+The computer instantly generates its move  <br>
 The round result is displayed along with the updated score
 Keep playing or enter q to quit and view your final stats
 
