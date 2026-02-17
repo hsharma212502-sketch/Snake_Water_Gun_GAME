@@ -44,18 +44,18 @@ Step-by-step:  <br>
 Launch the game using the command above  <br>
 Enter s, w, or g to make your move  <br>
 The computer instantly generates its move  <br>
-The round result is displayed along with the updated score
-Keep playing or enter q to quit and view your final stats
+The round result is displayed along with the updated score  <br>
+Keep playing or enter q to quit and view your final stats  <br>
 
-Example Round:
-You chose    : 🐍 Snake
-Computer chose: 💧 Water
-Result       : ✅ You Win! Snake drinks Water.
+Example Round:  <br>
+You chose    : 🐍 Snake  <br>
+Computer chose: 💧 Water  <br>
+Result       : ✅ You Win! Snake drinks Water.  <br>
 
-Score → You: 3 | Computer: 1 | Draws: 1
+Score → You: 3 | Computer: 1 | Draws: 1  <br>
 
-📁 Project Structure
-snake-water-gun/
+📁 Project Structure  <br>
+snake-water-gun/  <br>
 │
-├── snake_water_gun.py   # Main game logic
-└── README.md            # Project documentation
+├── snake_water_gun.py   # Main game logic  <br>
+└── README.md            # Project documentation  <br>
